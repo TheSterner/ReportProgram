@@ -1,0 +1,6 @@
+C:\Users\Blake\Source\Repos\Accounting\ReportProgram\ReportProgram\bin\Debug\ReportProgram.exe.config
+C:\Users\Blake\Source\Repos\Accounting\ReportProgram\ReportProgram\bin\Debug\ReportProgram.exe
+C:\Users\Blake\Source\Repos\Accounting\ReportProgram\ReportProgram\bin\Debug\ReportProgram.pdb
+C:\Users\Blake\Source\Repos\Accounting\ReportProgram\ReportProgram\obj\Debug\ReportProgram.csproj.CoreCompileInputs.cache
+C:\Users\Blake\Source\Repos\Accounting\ReportProgram\ReportProgram\obj\Debug\ReportProgram.exe
+C:\Users\Blake\Source\Repos\Accounting\ReportProgram\ReportProgram\obj\Debug\ReportProgram.pdb
